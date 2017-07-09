@@ -1,3 +1,7 @@
 HOW TO RUN
-Activate your venv 
-python run.py
+
+Activate your venv
+
+execute python run.py
+
+execute cron.sh to add shedule job
